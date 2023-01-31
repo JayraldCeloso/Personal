@@ -1,0 +1,12 @@
+.nav-container th {
+	color: white;
+	font-size: 50px;
+}
+
+.nav-container table {
+	max-height: 900px;
+}
+
+body::-webkit-scrollbar {
+	display: none;
+}
